@@ -23,11 +23,3 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-
-.idea/
-target/
-*.iml
-out
-gen
-apache-tomcat-8.5.27/
-*.xml
